@@ -2,4 +2,4 @@
  
 Durante esta sesión hablaremos acerca de GitHub Codespaces, una nueva característica de GitHub que nos permite crear un entorno de desarrollo completamente personalizado y en la nube, con todo lo que necesitamos para trabajar en nuestros proyectos.
 
-Esta es la [platilla]() con la que trabajaremos en la sesión.
+Esta es la [platilla](https://github.com/education/codespaces-project-template-py#make-changes-using-copilot) con la que trabajaremos en la sesión.
